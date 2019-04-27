@@ -1,6 +1,6 @@
-# flutter_furniture_app
+# Flutter Furniture App UI
 
-A new Flutter project.
+![](assets/preview.png)
 
 ## Getting Started
 
